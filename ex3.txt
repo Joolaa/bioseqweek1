@@ -1,5 +1,0 @@
-There are 12 matching, 2 mismatching and 8 not aligned pairs.
-If we use linear gap penalty with penalty of 0.5 for each pair not aligned,
-and a penalty of 1 for each mismatch, the score for the alignment is:
-
-12 - 2 - (0.5 * 8) = 12 - 2 - 4 = 6
