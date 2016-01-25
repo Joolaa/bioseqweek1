@@ -1,0 +1,7 @@
+Since q_a, q_b and p_ab are probabilities, they are larger or equal to 0 and smaller or equal to 1.
+It is known that the set [0, 1] is closed under multiplication and the set (0, 1] is closed under division.
+If p_ab is assumed to be non-zero, then the division is something in the set [0, 1].
+That means, that the logarithm of the division is something smaller or equal to zero.
+Since the product of probabilities is positive, the whole summand is smaller or equal to zero.
+Sum of numbers that are smaller or equal to zero is smaller or equal to zero.
+Inverse of a number that is smaller or equal to zero is larger or equal to zero, that is, it is non-negative QED.
